@@ -1,0 +1,16 @@
+[('verb', 'verb, 3rd person singular present'), ('adjective (English)', 'adjective (English), other noun-modifier (Chinese)'), ('noun', 'noun, singular or mass'), ('conjunction', 'conjunction, subordinating or preposition'), ('noun', 'noun, proper singular'), ('whitespace', 'whitespace'), ('verb', 'verb, past participle'), ('adjective (English)', 'adjective (English), other noun-modifier (Chinese)'), ('noun', 'noun, proper singular'), ('noun', 'noun, singular or mass')]
+*******************
+Emilo Izaguirre {{{}}} rallied his team-mates ahead of {{{}}} six {{{}}} games .
+Celtic's hopes of winning domestic Treble came {{{}}} an end on {{{}}} .
+Ronny Deila's side{{{}}}were {{{}}} out of the Scottish Cup {{{}}}-final .
+{{{}}}: Celtic write to SFA over Josh Meekings handball {{{}}} .
+*******************
+Emilo Izaguirre {verb} rallied his team-mates ahead of {adjective (English)} six {noun} games .
+Celtic's hopes of winning domestic Treble came {conjunction} an end on {noun} .
+Ronny Deila's side{whitespace}were {verb} out of the Scottish Cup {adjective (English)}-final .
+{noun}: Celtic write to SFA over Josh Meekings handball {noun} .
+*******************
+Emilo Izaguirre {verb, 3rd person singular present} rallied his team-mates ahead of {adjective (English), other noun-modifier (Chinese)} six {noun, singular or mass} games .
+Celtic's hopes of winning domestic Treble came {conjunction, subordinating or preposition} an end on {noun, proper singular} .
+Ronny Deila's side{whitespace}were {verb, past participle} out of the Scottish Cup {adjective (English), other noun-modifier (Chinese)}-final .
+{noun, proper singular}: Celtic write to SFA over Josh Meekings handball {noun, singular or mass} .
